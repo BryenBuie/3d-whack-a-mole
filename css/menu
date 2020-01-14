@@ -1,0 +1,11 @@
+#easyBtn {
+    max_width: 400px;
+    top: 120px
+    z-index: 100,
+}
+
+#hardBtn {
+    max_width: 400px;
+    top: 500px
+    z-index: 100;
+}
